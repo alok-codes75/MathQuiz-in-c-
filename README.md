@@ -21,16 +21,6 @@ Mathematics Quiz Game is a console-based application developed in C programming 
   - stdlib.h
   - time.h
 
-**How to Run**
-
-1. Compile the program:
-   
-   gcc main.c -o quiz
-
-2. Run the executable:
-   
-   ./quiz
-
 **Project Structure**
 
 Mathematics-Quiz-Game-C
